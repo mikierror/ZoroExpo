@@ -34,7 +34,7 @@ ZoroExpoApe is a modern, fully responsive web project built with **React + Vite*
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/ZoroExpoApe.git
+https://github.com/mikierror/ZoroExpo.git
 
 # Move into the project directory
 cd ZoroExpoApe
